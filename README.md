@@ -5,3 +5,5 @@ This is a bash script to fix a problem I have found on certain servers. After th
 ```
 -bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
 ```
+
+This solution is pretty much just exactly what is suggested in the comments [here](http://askubuntu.com/questions/454260/how-to-solve-locale-problem)
